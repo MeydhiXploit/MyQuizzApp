@@ -1,5 +1,5 @@
 ***************
-# Donasi To Me 1$ For Eaten :)
+# Donate To Me 1$ For Eaten :)
 <div align="center">
   <a href="https://www.paypal.me/meydhi">
     <img src="https://img.shields.io/badge/paypal-MEYDHI-gold?style=for-the-badge&logo=PayPal" alt="Donate">
