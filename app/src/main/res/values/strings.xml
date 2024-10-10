@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizzProgrammerApp</string>
+    <string name="desc_app">ini adalah aplikasi quiz sederhana, yang digunakan untuk melihat kemampuan peserta didik ataupun dapat digunakan untuk test masuk perusahaan</string>
+    <string name="play">Play</string>
+    <string name="start">Start</string>
+    <string name="enter_a_nickname">Enter a Nickname</string>
+    <string name="plase_field_your_nickname">Plase field your nickname</string>
+    <string name="default_index">- / -</string>
+    <string name="default_text">-</string>
+    <string name="your_score">Your score</string>
+    <string name="done">Done</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="message_exit">If you click yes, your data will be destroy</string>
+    <string name="yes">yes</string>
+    <string name="no">NO</string>
+    <string name="message_input">You will input this data</string>
+</resources>
