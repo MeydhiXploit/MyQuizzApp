@@ -1,6 +1,10 @@
 ***************
 # Donasi To Me 1$ For Eaten :)
-https://paypal.me/meydhi
+<div align="center">
+  <a href="https://www.paypal.me/meydhi">
+    <img src="https://img.shields.io/badge/paypal-MEYDHI-gold?style=for-the-badge&logo=PayPal" alt="Donate">
+  </a>
+</div><br>
 ***************
 # Preview
 ## Splash Screen
