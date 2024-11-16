@@ -1,29 +1,29 @@
 {
   "contents": [
     {
-      "body": "1. Jawablah pertanyaan ini..",
+      "body": "1. Apa yang dimaksud dengan pajak?",
       "image": "",
       "answers": [
         {
-          "answer": "tidak",
+          "answer": "Biaya yang dibayar untuk membeli barang",
           "correct_answer": false,
           "is_click": false,
           "option": "A"
         },
         {
-          "answer": "iya",
+          "answer": "Beban yang dibayar oleh individu atau badan kepada negara",
           "correct_answer": true,
           "is_click": false,
           "option": "B"
         },
         {
-          "answer": "tidak",
+          "answer": "Dana yang diberikan oleh perusahaan untuk kegiatan sosial",
           "correct_answer": false,
           "is_click": false,
           "option": "C"
         },
         {
-          "answer": "tidak",
+          "answer": "Sumber pendapatan dari hibah internasional",
           "correct_answer": false,
           "is_click": false,
           "option": "D"
@@ -31,29 +31,29 @@
       ]
     },
     {
-      "body": "2. Jawablah pertanyaan ini..",
+      "body": "2. Apa tujuan utama pemungutan pajak?",
       "image": "",
       "answers": [
         {
-          "answer": "tidak",
+          "answer": "Untuk mendanai kegiatan swasta",
           "correct_answer": false,
           "is_click": false,
           "option": "A"
         },
         {
-          "answer": "iya",
+          "answer": "Untuk membiayai kebutuhan negara dan pembangunan",
           "correct_answer": true,
           "is_click": false,
           "option": "B"
         },
         {
-          "answer": "tidak",
+          "answer": "Untuk meningkatkan keuntungan negara",
           "correct_answer": false,
           "is_click": false,
           "option": "C"
         },
         {
-          "answer": "tidak",
+          "answer": "Untuk menambah pendapatan individu",
           "correct_answer": false,
           "is_click": false,
           "option": "D"
@@ -61,29 +61,29 @@
       ]
     },
     {
-      "body": "3. Jawablah pertanyaan ini..",
+      "body": "3. Siapakah yang wajib membayar pajak?",
       "image": "",
       "answers": [
         {
-          "answer": "tidak",
+          "answer": "Hanya warga negara asing",
           "correct_answer": false,
           "is_click": false,
           "option": "A"
         },
         {
-          "answer": "iya",
+          "answer": "Setiap individu atau badan yang memenuhi syarat tertentu",
           "correct_answer": true,
           "is_click": false,
           "option": "B"
         },
         {
-          "answer": "tidak",
+          "answer": "Hanya perusahaan besar",
           "correct_answer": false,
           "is_click": false,
           "option": "C"
         },
         {
-          "answer": "tidak",
+          "answer": "Hanya pekerja pemerintah",
           "correct_answer": false,
           "is_click": false,
           "option": "D"
@@ -91,29 +91,29 @@
       ]
     },
     {
-      "body": "4. Jawablah pertanyaan ini..",
+      "body": "4. Apa yang dimaksud dengan pajak penghasilan (PPh)?",
       "image": "",
       "answers": [
         {
-          "answer": "tidak",
+          "answer": "Pajak atas barang yang dibeli",
           "correct_answer": false,
           "is_click": false,
           "option": "A"
         },
         {
-          "answer": "iya",
+          "answer": "Pajak yang dikenakan atas pendapatan yang diterima",
           "correct_answer": true,
           "is_click": false,
           "option": "B"
         },
         {
-          "answer": "tidak",
+          "answer": "Pajak atas warisan",
           "correct_answer": false,
           "is_click": false,
           "option": "C"
         },
         {
-          "answer": "tidak",
+          "answer": "Pajak atas penghasilan perusahaan",
           "correct_answer": false,
           "is_click": false,
           "option": "D"
@@ -121,29 +121,179 @@
       ]
     },
     {
-      "body": "5. Jawablah pertanyaan ini..",
+      "body": "5. Pajak apa yang dikenakan pada barang atau jasa?",
       "image": "",
       "answers": [
         {
-          "answer": "tidak",
+          "answer": "Pajak Bumi dan Bangunan",
           "correct_answer": false,
           "is_click": false,
           "option": "A"
         },
         {
-          "answer": "iya",
+          "answer": "Pajak Pertambahan Nilai (PPN)",
           "correct_answer": true,
           "is_click": false,
           "option": "B"
         },
         {
-          "answer": "tidak",
+          "answer": "Pajak Penghasilan",
           "correct_answer": false,
           "is_click": false,
           "option": "C"
         },
         {
-          "answer": "tidak",
+          "answer": "Pajak Kendaraan Bermotor",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "6. Siapa yang berhak untuk memungut pajak?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Setiap individu yang memiliki usaha",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Hanya petugas pajak yang diangkat oleh pemerintah",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Perusahaan yang menjual barang",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Warga negara yang membayar pajak",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "7. Apa itu pajak progresif?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pajak yang semakin besar dengan meningkatnya penghasilan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pajak yang dikenakan pada barang mewah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pajak yang dikenakan pada rumah",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pajak yang dikenakan pada kendaraan bermotor",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "8. Pajak yang dikenakan atas kepemilikan tanah disebut?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pajak Bumi dan Bangunan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pajak Kendaraan Bermotor",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pajak Penghasilan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pajak Pertambahan Nilai",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "9. Siapa yang bertanggung jawab dalam pembayaran pajak perusahaan?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pemilik perusahaan",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Karyawan perusahaan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pelanggan perusahaan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Negara",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "D"
+        }
+      ]
+    },
+    {
+      "body": "10. Apa yang dimaksud dengan pajak tidak langsung?",
+      "image": "",
+      "answers": [
+        {
+          "answer": "Pajak yang dibayar langsung oleh individu atau badan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "A"
+        },
+        {
+          "answer": "Pajak yang dibayar oleh konsumen melalui harga barang atau jasa",
+          "correct_answer": true,
+          "is_click": false,
+          "option": "B"
+        },
+        {
+          "answer": "Pajak yang dibayar oleh perusahaan",
+          "correct_answer": false,
+          "is_click": false,
+          "option": "C"
+        },
+        {
+          "answer": "Pajak yang dikenakan pada ekspor dan impor",
           "correct_answer": false,
           "is_click": false,
           "option": "D"
